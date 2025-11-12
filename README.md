@@ -53,3 +53,18 @@ handwritten-digit-recognition/
 ├── requirements.txt # All required dependencies
 ├── .gitignore # Files/folders to ignore in Git
 ├── README.md # Project documentation
+
+## 🧾 Footer
+Developed with 
+👨‍💻 Team Members:
+
+Nandini Agnihotri
+🎓 B.Tech Computer Science (Data Science & AI)
+202210101150066
+Vaishali Gupta
+🎓 B.Tech Computer Science (Data Science & AI)
+202210101150068
+Pratibha Dwivedi
+🎓 B.Tech Computer Science (Data Science & AI)
+202210101150064
+🔗 GitHub: https://github.com/NandiniAgnihotri52
